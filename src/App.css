@@ -26,6 +26,11 @@
   color: rgb(112, 76, 182);
 }
 
+h1{
+  font-size: 20px;
+  font-weight: 900;
+}
+
 @keyframes App-logo-float {
   0% {
     transform: translateY(0);
